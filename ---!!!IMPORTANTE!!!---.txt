@@ -1,7 +1,4 @@
-# Pagina web com crud para o controle de centros de custo de uma empresa.
- pagina web com crud basico, banco de dados funcional e sistema de login
-
- Esse projeto se trata do controle de centros de custo de uma empresa.
+Esse projeto se trata do controle de centros de custo de uma empresa.
 
 Nome: Gabriel Silva de Sousa
 Matricula: 202118748 
